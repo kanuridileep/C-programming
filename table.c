@@ -1,3 +1,15 @@
+/*Write a c program to print nth multiplication table.
+Example:
+Input:
+5
+Output:
+5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+. . . 
+5 x 9 = 45
+5 x 10 = 50
+*/
 #include <stdio.h>
 int main()
 {
