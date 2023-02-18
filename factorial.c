@@ -1,3 +1,9 @@
+/*Write a c program to print factorial of n.
+Example:
+Input:
+5
+Output:
+120*/
 #include <stdio.h>
 void main()
 {
