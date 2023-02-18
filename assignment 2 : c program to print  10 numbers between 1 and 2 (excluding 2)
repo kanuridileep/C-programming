@@ -3,7 +3,7 @@ int main()
 {
 	float num=1.00;
 	int i=1;
-	while (i<=10)
+	while (i<=2)
 	{
 		{
 		printf("%d\t%.2f\n",i,num);
