@@ -1,3 +1,4 @@
+//Write a c program find 2nd highest among n numbers
 #include <stdio.h>
 int main()
 {
