@@ -1,3 +1,4 @@
+//Find Lowest among n numbers.
 #include <stdio.h>
 int main()
 {
