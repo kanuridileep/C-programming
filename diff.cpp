@@ -1,3 +1,4 @@
+//to print even sum and odd sum and their difference among n numbers.
 #include <stdio.h>
 int main()
 {
