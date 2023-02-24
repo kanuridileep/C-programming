@@ -5,9 +5,10 @@
 #include <stdio.h>
 
 int main() {
-    int i, j;
-    for(i=1, j=4; i<=4 && j>=1; i++, j--)
+    int i, j,n;
+    printf(" to print numbers upto:");
+    scanf("%d",&n);
+    for(i=1, j=n; i<=n && j>=1; i++, j--)
         printf("%d  %d\n", i, j);
     return 0;
 }
-
