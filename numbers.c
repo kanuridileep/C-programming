@@ -5,10 +5,13 @@
 #include <stdio.h>
 
 int main() {
-    int i, j,n;
+    int i,n;
     printf(" to print numbers upto:");
     scanf("%d",&n);
-    for(i=1, j=n; i<=n && j>=1; i++, j--)
-        printf("%d  %d\n", i, j);
+    for(i=1;i<=n;i++)
+    {
+        printf("%d  %d\n", i,n-i+1);
+}
     return 0;
 }
+
