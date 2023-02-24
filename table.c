@@ -1,3 +1,4 @@
+//print nth multiplication table 
 #include <stdio.h>
 int main()
 {
